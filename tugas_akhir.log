@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  22 APR 2021 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  1 MAY 2021 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -704,7 +704,26 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 504.
  (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))) (./tugas_akhir.aux)
+))) (./tugas_akhir.aux
+
+LaTeX Warning: Label `fig:2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig: 3_1' multiply defined.
+
+
+LaTeX Warning: Label `fig: 3_1' multiply defined.
+
+
+LaTeX Warning: Label `fig: 3_1' multiply defined.
+
+
+LaTeX Warning: Label `fig: 3_1' multiply defined.
+
+
+LaTeX Warning: Label `fig: 3_1' multiply defined.
+
+)
 \openout1 = `tugas_akhir.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 161.
@@ -806,7 +825,7 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count359
-<file/COVER-BUKU.pdf, id=220, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=135, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf>
 Package pdftex.def Info: file/COVER-BUKU.pdf  used on input line 164.
@@ -815,7 +834,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf>
 Package pdftex.def Info: file/COVER-BUKU.pdf  used on input line 164.
 (pdftex.def)             Requested size: 421.21263pt x 597.551pt.
-<file/COVER-BUKU.pdf, id=223, page=1, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=138, page=1, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 1>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
@@ -839,7 +858,7 @@ Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
 [1
 
  <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=253, page=2, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=168, page=2, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 2>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page2 used on input line 164.
@@ -853,7 +872,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page2 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [2 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=259, page=3, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=174, page=3, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 3>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page3 used on input line 164.
@@ -867,7 +886,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page3 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [3 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=274, page=4, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=190, page=4, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 4>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page4 used on input line 164.
@@ -881,7 +900,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page4 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [4 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=280, page=5, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=196, page=5, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 5>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page5 used on input line 164.
@@ -895,7 +914,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page5 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [5 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=288, page=6, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=204, page=6, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 6>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page6 used on input line 164.
@@ -909,7 +928,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page6 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [6 <./file/COVER-BUKU.pdf>]
-<file/Pengesahan.pdf, id=294, 421.09319pt x 597.55246pt>
+<file/Pengesahan.pdf, id=210, 421.09319pt x 597.55246pt>
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf>
 Package pdftex.def Info: file/Pengesahan.pdf  used on input line 165.
@@ -918,7 +937,7 @@ File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf>
 Package pdftex.def Info: file/Pengesahan.pdf  used on input line 165.
 (pdftex.def)             Requested size: 421.09215pt x 597.551pt.
-<file/Pengesahan.pdf, id=297, page=1, 421.09319pt x 597.55246pt>
+<file/Pengesahan.pdf, id=213, page=1, 421.09319pt x 597.55246pt>
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf, page 1>
 Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 165.
@@ -964,29 +983,20 @@ Overfull \hbox (0.43709pt too wide) in paragraph at lines 18--19
 \tf@toc=\write6
 \openout6 = `tugas_akhir.toc'.
 
- [12] (./tugas_akhir.lof [13
-
-
-]
-Overfull \hbox (6.13237pt too wide) in paragraph at lines 32--32
- [][] [][]\OT1/cmr/m/n/10 Diagram Sin-kro-ni-sa-si \OT1/cmr/m/it/10 cap-tu-re ra-te \OT1/cmr/m/n/10 ka-me-ra de-ngan \OT1/cmr/m/it/10 sam- 
- []
-
-
-Overfull \hbox (1.23947pt too wide) in paragraph at lines 42--42
- [][] [][]\OT1/cmr/m/n/10 Grafik ana-li-sa ku-an-ti-ta-tif ni-lai er-ror da-ri \OT1/cmr/m/it/10 ste-e-ring whe- 
- []
-
-)
+ [12] (./tugas_akhir.lof)
 \tf@lof=\write7
 \openout7 = `tugas_akhir.lof'.
 
- [14] (./tugas_akhir.lot)
+ [13
+
+
+] [14
+
+] (./tugas_akhir.lot)
 \tf@lot=\write8
 \openout8 = `tugas_akhir.lot'.
 
  [15
-
 
 ] [16
 
@@ -1026,34 +1036,25 @@ Overfull \hbox (3.65947pt too wide) in paragraph at lines 108--110
 
 ] (./bab2.tex
 Bab 2.
-<img/contoh-kurva-bezier.JPG, id=619, 398.23781pt x 334.24875pt>
+<img/contoh-kurva-bezier.JPG, id=399, 398.23781pt x 334.24875pt>
 File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
 <use img/contoh-kurva-bezier.JPG>
-Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 31.
+Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 13.
 (pdftex.def)             Requested size: 159.2923pt x 133.69713pt.
-
-Underfull \vbox (badness 2512) has occurred while \output is active []
-
- [7
-
-]
-<img/6dof.jpg, id=627, 338.76563pt x 319.1925pt>
-File: img/6dof.jpg Graphic file (type jpg)
-<use img/6dof.jpg>
-Package pdftex.def Info: img/6dof.jpg  used on input line 43.
-(pdftex.def)             Requested size: 135.50385pt x 127.67473pt.
- [8 <./img/contoh-kurva-bezier.JPG>]
-<img/velocity.jpg, id=636, 1284.8pt x 722.7pt>
-File: img/velocity.jpg Graphic file (type jpg)
-<use img/velocity.jpg>
-Package pdftex.def Info: img/velocity.jpg  used on input line 55.
-(pdftex.def)             Requested size: 256.95544pt x 144.53743pt.
+File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
+<use img/contoh-kurva-bezier.JPG>
+Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 26.
+(pdftex.def)             Requested size: 159.2923pt x 133.69713pt.
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (2.33258pt too wide) in paragraph at lines 31--226
+[]\OT1/cmr/m/it/10 Embedded Sys-tem \OT1/cmr/m/n/10 ada-lah su-a-tu sys-tem pe-ngo-lah in-for-ma-si yang
+ []
 
- [9 <./img/6dof.jpg> <./img/velocity.jpg>] [10] (./bab3.tex
+[7
+
+ <./img/contoh-kurva-bezier.JPG>] [8] (./bab3.tex
 Bab 3.
-<img/cakupanTA.JPG, id=646, 593.96906pt x 243.91125pt>
+<img/cakupanTA.JPG, id=411, 593.96906pt x 243.91125pt>
 File: img/cakupanTA.JPG Graphic file (type jpg)
 <use img/cakupanTA.JPG>
 Package pdftex.def Info: img/cakupanTA.JPG  used on input line 14.
@@ -1063,380 +1064,98 @@ Overfull \hbox (33.62059pt too wide) in paragraph at lines 14--15
  [][] 
  []
 
-[11
+File: img/cakupanTA.JPG Graphic file (type jpg)
+<use img/cakupanTA.JPG>
+Package pdftex.def Info: img/cakupanTA.JPG  used on input line 26.
+(pdftex.def)             Requested size: 326.68399pt x 134.1516pt.
+
+Overfull \hbox (33.62059pt too wide) in paragraph at lines 26--27
+ [][] 
+ []
+
+[9
 
 
  <./img/cakupanTA.JPG>]
-<img/desainsistem.PNG, id=653, 1300.1072pt x 400.49625pt>
-File: img/desainsistem.PNG Graphic file (type png)
-<use img/desainsistem.PNG>
-Package pdftex.def Info: img/desainsistem.PNG  used on input line 35.
-(pdftex.def)             Requested size: 325.026pt x 100.12381pt.
+File: img/cakupanTA.JPG Graphic file (type jpg)
+<use img/cakupanTA.JPG>
+Package pdftex.def Info: img/cakupanTA.JPG  used on input line 38.
+(pdftex.def)             Requested size: 326.68399pt x 134.1516pt.
 
-Overfull \hbox (31.9626pt too wide) in paragraph at lines 35--37
+Overfull \hbox (33.62059pt too wide) in paragraph at lines 38--39
  [][] 
  []
 
-[12]
-<img/relative-dist.jpg, id=660, 592.46344pt x 465.99094pt>
-File: img/relative-dist.jpg Graphic file (type jpg)
-<use img/relative-dist.jpg>
-Package pdftex.def Info: img/relative-dist.jpg  used on input line 54.
-(pdftex.def)             Requested size: 296.23099pt x 232.99489pt.
 
-Overfull \hbox (3.16759pt too wide) in paragraph at lines 54--55
- [][] 
- []
-
-[13 <./img/desainsistem.PNG>]
-<img/jalur-tnp-mobil.JPG, id=669, 531.48563pt x 461.47406pt>
-File: img/jalur-tnp-mobil.JPG Graphic file (type jpg)
-<use img/jalur-tnp-mobil.JPG>
-Package pdftex.def Info: img/jalur-tnp-mobil.JPG  used on input line 69.
-(pdftex.def)             Requested size: 265.74216pt x 230.73645pt.
-<img/jalur-dgn-mobil.JPG, id=670, 412.54124pt x 465.23813pt>
-File: img/jalur-dgn-mobil.JPG Graphic file (type jpg)
-<use img/jalur-dgn-mobil.JPG>
-Package pdftex.def Info: img/jalur-dgn-mobil.JPG  used on input line 76.
-(pdftex.def)             Requested size: 247.52666pt x 279.14502pt.
- [14 <./img/relative-dist.jpg>]
-Underfull \vbox (badness 5637) has occurred while \output is active []
-
- [15 <./img/jalur-tnp-mobil.JPG>]
-Underfull \vbox (badness 5050) has occurred while \output is active []
-
- [16 <./img/jalur-dgn-mobil.JPG>]
-<img/colliders.JPG, id=687, 453.19313pt x 419.31656pt>
-File: img/colliders.JPG Graphic file (type jpg)
-<use img/colliders.JPG>
-Package pdftex.def Info: img/colliders.JPG  used on input line 95.
-(pdftex.def)             Requested size: 294.57204pt x 272.55252pt.
-
-Overfull \hbox (1.50864pt too wide) in paragraph at lines 95--96
- [][] 
- []
-
-<img/boundary-inside.JPG, id=688, 358.33875pt x 411.78844pt>
-File: img/boundary-inside.JPG Graphic file (type jpg)
-<use img/boundary-inside.JPG>
-Package pdftex.def Info: img/boundary-inside.JPG  used on input line 102.
-(pdftex.def)             Requested size: 250.83542pt x 288.24992pt.
-<img/boundary-outside.JPG, id=689, 355.3275pt x 408.77719pt>
-File: img/boundary-outside.JPG Graphic file (type jpg)
-<use img/boundary-outside.JPG>
-Package pdftex.def Info: img/boundary-outside.JPG  used on input line 109.
-(pdftex.def)             Requested size: 248.72754pt x 286.14207pt.
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 118.
-(c:/texlive/2021/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [17]
-Underfull \vbox (badness 1178) has occurred while \output is active []
-
- [18 <./img/colliders.JPG>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19 <./img/boundary-inside.JPG>] [20 <./img/boundary-outside.JPG>]
-<img/webcam-texture.JPG, id=711, 439.6425pt x 450.18187pt>
-File: img/webcam-texture.JPG Graphic file (type jpg)
-<use img/webcam-texture.JPG>
-Package pdftex.def Info: img/webcam-texture.JPG  used on input line 141.
-(pdftex.def)             Requested size: 272.57553pt x 279.10988pt.
- [21]
-<img/2lj_short_oh.jpg, id=718, 896.59969pt x 384.6872pt>
-File: img/2lj_short_oh.jpg Graphic file (type jpg)
-<use img/2lj_short_oh.jpg>
-Package pdftex.def Info: img/2lj_short_oh.jpg  used on input line 157.
-(pdftex.def)             Requested size: 277.94302pt x 119.25179pt.
-<img/2lj_long_oh.jpg, id=719, 459.96844pt x 336.50719pt>
-File: img/2lj_long_oh.jpg Graphic file (type jpg)
-<use img/2lj_long_oh.jpg>
-Package pdftex.def Info: img/2lj_long_oh.jpg  used on input line 165.
-(pdftex.def)             Requested size: 243.7821pt x 178.34795pt.
-<img/3lj_oh.jpg, id=720, 447.92343pt x 376.40625pt>
-File: img/3lj_oh.jpg Graphic file (type jpg)
-<use img/3lj_oh.jpg>
-Package pdftex.def Info: img/3lj_oh.jpg  used on input line 173.
-(pdftex.def)             Requested size: 237.39828pt x 199.49435pt.
-<img/4lj_oh.jpg, id=721, 451.6875pt x 407.27156pt>
-File: img/4lj_oh.jpg Graphic file (type jpg)
-<use img/4lj_oh.jpg>
-Package pdftex.def Info: img/4lj_oh.jpg  used on input line 181.
-(pdftex.def)             Requested size: 239.39322pt x 215.85289pt.
- [22 <./img/webcam-texture.JPG>]
-Overfull \hbox (19.30019pt too wide) in paragraph at lines 193--202
+ [10]
+File: img/cakupanTA.JPG Graphic file (type jpg)
+<use img/cakupanTA.JPG>
+Package pdftex.def Info: img/cakupanTA.JPG  used on input line 50.
+(pdftex.def)             Requested size: 326.68399pt x 134.1516pt.
+
+Overfull \hbox (33.62059pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
-[23 <./img/2lj_short_oh.jpg> <./img/2lj_long_oh.jpg>] [24 <./img/3lj_oh.jpg>]
+File: img/cakupanTA.JPG Graphic file (type jpg)
+<use img/cakupanTA.JPG>
+Package pdftex.def Info: img/cakupanTA.JPG  used on input line 62.
+(pdftex.def)             Requested size: 326.68399pt x 134.1516pt.
+
+Overfull \hbox (33.62059pt too wide) in paragraph at lines 62--63
+ [][] 
+ []
+
+[11]
+File: img/cakupanTA.JPG Graphic file (type jpg)
+<use img/cakupanTA.JPG>
+Package pdftex.def Info: img/cakupanTA.JPG  used on input line 74.
+(pdftex.def)             Requested size: 326.68399pt x 134.1516pt.
+
+Overfull \hbox (33.62059pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
+
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25 <./img/4lj_oh.jpg>]
-<img/shanghai-ic.png, id=748, 1284.8pt x 814.04124pt>
-File: img/shanghai-ic.png Graphic file (type png)
-<use img/shanghai-ic.png>
-Package pdftex.def Info: img/shanghai-ic.png  used on input line 247.
-(pdftex.def)             Requested size: 321.19922pt x 203.50981pt.
-
-Overfull \hbox (28.13582pt too wide) in paragraph at lines 247--248
- [][] 
- []
-
-<img/bezier-curve-jalan.JPG, id=751, 785.18344pt x 551.05875pt>
-File: img/bezier-curve-jalan.JPG Graphic file (type jpg)
-<use img/bezier-curve-jalan.JPG>
-Package pdftex.def Info: img/bezier-curve-jalan.JPG  used on input line 254.
-(pdftex.def)             Requested size: 282.66582pt x 198.38098pt.
-[26 <./img/shanghai-ic.png>]
-Underfull \vbox (badness 2573) has occurred while \output is active []
-
- [27 <./img/bezier-curve-jalan.JPG>]
-<img/bezier-curve-cp.JPG, id=766, 595.47469pt x 397.485pt>
-File: img/bezier-curve-cp.JPG Graphic file (type jpg)
-<use img/bezier-curve-cp.JPG>
-Package pdftex.def Info: img/bezier-curve-cp.JPG  used on input line 268.
-(pdftex.def)             Requested size: 279.87314pt x 186.81796pt.
-<img/bezier-curve-cp2.JPG, id=767, 786.68906pt x 389.95688pt>
-File: img/bezier-curve-cp2.JPG Graphic file (type jpg)
-<use img/bezier-curve-cp2.JPG>
-Package pdftex.def Info: img/bezier-curve-cp2.JPG  used on input line 275.
-(pdftex.def)             Requested size: 275.34529pt x 136.48694pt.
- [28 <./img/bezier-curve-cp.JPG>] [29 <./img/bezier-curve-cp2.JPG>]
-<img/pp1.JPG, id=778, 813.79031pt x 345.54094pt>
-File: img/pp1.JPG Graphic file (type jpg)
-<use img/pp1.JPG>
-Package pdftex.def Info: img/pp1.JPG  used on input line 295.
-(pdftex.def)             Requested size: 284.83087pt x 120.94113pt.
-<img/pp2.JPG, id=779, 731.73375pt x 380.17032pt>
-File: img/pp2.JPG Graphic file (type jpg)
-<use img/pp2.JPG>
-Package pdftex.def Info: img/pp2.JPG  used on input line 302.
-(pdftex.def)             Requested size: 256.11064pt x 133.0616pt.
- [30 <./img/pp1.JPG> <./img/pp2.JPG>]
-<img/terrain.JPG, id=786, 834.86906pt x 446.41782pt>
-File: img/terrain.JPG Graphic file (type jpg)
-<use img/terrain.JPG>
-Package pdftex.def Info: img/terrain.JPG  used on input line 321.
-(pdftex.def)             Requested size: 292.20856pt x 156.24857pt.
- [31]
-<img/menuUI.JPG, id=792, 830.35219pt x 465.99094pt>
-File: img/menuUI.JPG Graphic file (type jpg)
-<use img/menuUI.JPG>
-Package pdftex.def Info: img/menuUI.JPG  used on input line 335.
-(pdftex.def)             Requested size: 290.62761pt x 163.09926pt.
-
-
-LaTeX Warning: Reference `fig: 3_16' on page 32 undefined on input line 340.
-
-
-Underfull \vbox (badness 1360) has occurred while \output is active []
-
- [32 <./img/terrain.JPG> <./img/menuUI.JPG>]
-<img/logfile.JPG, id=798, 635.37375pt x 592.46344pt>
-File: img/logfile.JPG Graphic file (type jpg)
-<use img/logfile.JPG>
-Package pdftex.def Info: img/logfile.JPG  used on input line 349.
-(pdftex.def)             Requested size: 317.6861pt x 296.23099pt.
-
-Overfull \hbox (24.6227pt too wide) in paragraph at lines 349--350
- [][] 
- []
-
-LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 356.
-<img/steeringwheel.jpg, id=799, 472.01344pt x 510.40688pt>
-File: img/steeringwheel.jpg Graphic file (type jpg)
-<use img/steeringwheel.jpg>
-Package pdftex.def Info: img/steeringwheel.jpg  used on input line 364.
-(pdftex.def)             Requested size: 240.72366pt x 260.30406pt.
-[33]
-<img/driverinput.JPG, id=805, 1000.48781pt x 527.72156pt>
-File: img/driverinput.JPG Graphic file (type jpg)
-<use img/driverinput.JPG>
-Package pdftex.def Info: img/driverinput.JPG  used on input line 375.
-(pdftex.def)             Requested size: 300.14865pt x 158.31769pt.
-
-Overfull \hbox (7.08525pt too wide) in paragraph at lines 375--377
- [][] 
- []
-
-
-Underfull \vbox (badness 2707) has occurred while \output is active []
-
- [34 <./img/logfile.JPG>] [35 <./img/steeringwheel.jpg>]
-<img/sinyaldangambar.JPG, id=816, 1379.90532pt x 570.63188pt>
-File: img/sinyaldangambar.JPG Graphic file (type jpg)
-<use img/sinyaldangambar.JPG>
-Package pdftex.def Info: img/sinyaldangambar.JPG  used on input line 393.
-(pdftex.def)             Requested size: 275.97618pt x 114.12434pt.
- [36 <./img/driverinput.JPG>]
-Overfull \hbox (0.17166pt too wide) in paragraph at lines 404--405
-[]\OT1/cmr/m/n/10 Langkah ter-a-khir ada-lah meng-in-te-gra-sik-an se-lu-ruh sis-tem men-
- []
-
-
-Underfull \vbox (badness 2573) has occurred while \output is active []
-
- [37 <./img/sinyaldangambar.JPG>]
-<img/serial-comm.jpg, id=829, 173.14688pt x 633.11531pt>
-File: img/serial-comm.jpg Graphic file (type jpg)
-<use img/serial-comm.jpg>
-Package pdftex.def Info: img/serial-comm.jpg  used on input line 452.
-(pdftex.def)             Requested size: 121.20198pt x 443.17769pt.
-
-
-LaTeX Warning: Float too large for page by 14.93358pt on input line 455.
-
-) [38] [39 <./img/serial-comm.jpg>] [40
+ [12] [13] [14
 
 ] (./bab4.tex
 Bab 4.
-[41
+[15
 
-]
-Overfull \hbox (2.58838pt too wide) in paragraph at lines 42--43
-[]\OT1/cmr/m/n/10 Kemudian Su-dut Ori-en-ta-si ken-da-ra-an pa-da pe-ngu-ji-an ini meng-
- []
-
-[42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Overfull \hbox (10.11302pt too wide) in paragraph at lines 63--63
-|[]\OT1/cmr/bx/n/12 Pengujian Pe-ngam-bil-an Da-ta - \OT1/cmr/bx/it/12 Se-ri-al Da-ta USB| 
- []
-
-[44]
-Overfull \hbox (17.1877pt too wide) in paragraph at lines 96--117
- [][] 
- []
-
-[45]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [46]
-Overfull \hbox (5.23727pt too wide) in paragraph at lines 126--148
- [][] 
- []
-
-<img/UItest.jpg, id=912, 2963.07pt x 2830.575pt>
-File: img/UItest.jpg Graphic file (type jpg)
-<use img/UItest.jpg>
-Package pdftex.def Info: img/UItest.jpg  used on input line 153.
-(pdftex.def)             Requested size: 296.32436pt x 283.07408pt.
-
-Overfull \hbox (3.26096pt too wide) in paragraph at lines 153--154
- [][] 
- []
-
-<img/webcam.JPG, id=913, 1279.78125pt x 666.99188pt>
-File: img/webcam.JPG Graphic file (type jpg)
-<use img/webcam.JPG>
-Package pdftex.def Info: img/webcam.JPG  used on input line 161.
-(pdftex.def)             Requested size: 294.34349pt x 153.4049pt.
-
-Overfull \hbox (1.28009pt too wide) in paragraph at lines 161--162
- [][] 
- []
-
-<img/arduino-python.JPG, id=914, 678.28406pt x 505.13719pt>
-File: img/arduino-python.JPG Graphic file (type jpg)
-<use img/arduino-python.JPG>
-Package pdftex.def Info: img/arduino-python.JPG  used on input line 169.
-(pdftex.def)             Requested size: 271.3088pt x 202.05128pt.
-<img/serial.JPG, id=915, 789.70032pt x 375.65344pt>
-File: img/serial.JPG Graphic file (type jpg)
-<use img/serial.JPG>
-Package pdftex.def Info: img/serial.JPG  used on input line 176.
-(pdftex.def)             Requested size: 315.87453pt x 150.2587pt.
-
-Overfull \hbox (22.81113pt too wide) in paragraph at lines 176--177
- [][] 
- []
-
-File: img/driverinput.JPG Graphic file (type jpg)
-<use img/driverinput.JPG>
-Package pdftex.def Info: img/driverinput.JPG  used on input line 183.
-(pdftex.def)             Requested size: 300.14865pt x 158.31769pt.
-
-Overfull \hbox (7.08525pt too wide) in paragraph at lines 183--184
- [][] 
- []
-
-<img/response_horz.JPG, id=916, 970.3753pt x 465.99094pt>
-File: img/response_horz.JPG Graphic file (type jpg)
-<use img/response_horz.JPG>
-Package pdftex.def Info: img/response_horz.JPG  used on input line 190.
-(pdftex.def)             Requested size: 291.11484pt x 139.79836pt.
-<img/response_vert.JPG, id=917, 831.85782pt x 415.5525pt>
-File: img/response_vert.JPG Graphic file (type jpg)
-<use img/response_vert.JPG>
-Package pdftex.def Info: img/response_vert.JPG  used on input line 197.
-(pdftex.def)             Requested size: 249.55927pt x 124.6667pt.
-<img/grafik-error.JPG, id=918, 558.58687pt x 306.39468pt>
-File: img/grafik-error.JPG Graphic file (type jpg)
-<use img/grafik-error.JPG>
-Package pdftex.def Info: img/grafik-error.JPG  used on input line 204.
-(pdftex.def)             Requested size: 335.15471pt x 183.83823pt.
-
-Overfull \hbox (42.09131pt too wide) in paragraph at lines 204--205
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 8.55566pt on input line 252.
-
-
-Overfull \hbox (17.62126pt too wide) in paragraph at lines 258--293
- [][] 
- []
-
-) [47] [48]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [49]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [50 <./img/UItest.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [51 <./img/webcam.JPG> <./img/arduino-python.JPG>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52 <./img/serial.JPG>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53 <./img/response_horz.JPG> <./img/response_vert.JPG>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54 <./img/grafik-error.JPG>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [55]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [57] [58
-
-] (./bab5.tex
+]) [16] (./bab5.tex
 Bab 5.
 
 Overfull \hbox (2.71501pt too wide) in paragraph at lines 13--14
 []\OT1/cmr/m/n/10 Pengujian pe-ngam-bil-an da-ta ke-ce-pa-tan meng-ha-silk-an da-ta ber-
  []
 
-[59
 
-]) [60] (./tugas_akhir.bbl (./tugas_akhir.brf)
+LaTeX Warning: Reference `fig:4.8' on page 17 undefined on input line 16.
+
+[17
+
+
+]) [18] (./tugas_akhir.bbl (./tugas_akhir.brf)
 \tf@brf=\write9
 \openout9 = `tugas_akhir.brf'.
 
- [61
+
+Underfull \hbox (badness 1067) in paragraph at lines 21--21
+\OT1/cmr/m/n/10 e-pi-ness in the acti-ve in-di-vi-du-al,'' |   []   |   []   |   []
+ []
+
+) [19
 
 
-]) [62] (./lainnya/Biografi.tex
-<img/Foto.jpg, id=1000, 1084.05pt x 1355.0625pt>
+] [20
+
+] (./lainnya/Biografi.tex
+<img/Foto.jpg, id=479, 1084.05pt x 1355.0625pt>
 File: img/Foto.jpg Graphic file (type jpg)
 <use img/Foto.jpg>
 Package pdftex.def Info: img/Foto.jpg  used on input line 9.
@@ -1446,11 +1165,13 @@ Overfull \hbox (2.92903pt too wide) in paragraph at lines 9--11
  [][] 
  []
 
-) [63
-
- <./img/Foto.jpg>] [64
+) [21 <./img/Foto.jpg>] [22
 
 ]
+
+Package caption Warning: Unused \captionsetup[table] on input line 52.
+See the caption package documentation for explanation.
+
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 53.
 See the caption package documentation for explanation.
@@ -1459,24 +1180,27 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `tugas_akhir.out' has not changed.
-(rerunfilecheck)             Checksum: B2C84CACC114F64FA2D8966FC09A09FB;11305.
+(rerunfilecheck)             Checksum: F78FBBE6FF3C2E14E22271E508D40931;5321.
 Package rerunfilecheck Info: File `tugas_akhir.brf' has not changed.
-(rerunfilecheck)             Checksum: F63B3D281CB4497B6092EBB7D95AE0D5;877.
+(rerunfilecheck)             Checksum: 69D37AE0112F43DD546B54AF987F3511;467.
  ) 
 Here is how much of TeX's memory you used:
- 19160 strings out of 478994
- 285956 string characters out of 5862207
- 853036 words of memory out of 5000000
- 35930 multiletter control sequences out of 15000+600000
- 409676 words of font info for 50 fonts, out of 8000000 for 9000
+ 18684 strings out of 478994
+ 278487 string characters out of 5862207
+ 796036 words of memory out of 5000000
+ 35628 multiletter control sequences out of 15000+600000
+ 408816 words of font info for 47 fonts, out of 8000000 for 9000
  1162 hyphenation exceptions out of 8191
- 71i,17n,80p,1365b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tugas_akhir.pdf (82 pages, 6896642 bytes).
+ 71i,17n,80p,1365b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on tugas_akhir.pdf (40 pages, 606636 bytes).
 PDF statistics:
- 1117 PDF objects out of 1200 (max. 8388607)
- 948 compressed objects within 10 object streams
- 263 named destinations out of 1000 (max. 500000)
- 683 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 547 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 345 words of extra memory for PDF output out of 10000 (max. 10000000)
 

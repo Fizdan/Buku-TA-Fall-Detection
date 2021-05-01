@@ -1,43 +1,14 @@
 \babel@toc {indonesian}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Contoh kurva bezier pada bidang 3 dimensi\relax }}{8}{figure.caption.5}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces \textit {6 Degrees of Freedom - Pitch, Roll,} dan \textit {Yaw}\cite {cit:15}\relax }}{9}{figure.caption.6}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Kecepatan\relax }}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Contoh kurva bezier pada bidang 3 dimensi\relax }}{7}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Contoh kurva bezier pada bidang 3 dimensi\relax }}{8}{figure.caption.6}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Blok Diagram Cakupan Disiplin Ilmu Tugas Akhir\relax }}{11}{figure.caption.8}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Desain umum modul Simulator\relax }}{13}{figure.caption.9}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces \textit {Relative Distance} Oranye : Jarak dari \textit {Center of Mass} Mobil ke Batas Pinggir Kanan Jalan Merah : Jarak dari \textit {Center of Mass} Mobil ke Batas Pinggir Kiri Jalan\relax }}{14}{figure.caption.10}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Response Time - IlustrasiJalur yang diharapkan - Kasus Tidak ada Mobil Lain\relax }}{15}{figure.caption.11}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Response Time - Ilustrasi Jalur yang diharapkan - Kasus terdapat mobil lain\relax }}{16}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces 2 Macam \textit {Colliders} Mobil - \textit {Box Collider} dan \textit {Mesh Collider}\relax }}{18}{figure.caption.13}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces \textit {Boundary} dalam sirkuit\relax }}{19}{figure.caption.14}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces \textit {Boundary} luar sirkuit\relax }}{20}{figure.caption.15}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Kubus yang memiliki \textit {texture information} dari \textit {Webcam / Imaging Device}\relax }}{22}{figure.caption.16}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Desain sirkuit 2 lajur dengan jarak yang pendek dan kompleksitas yang rendah\relax }}{23}{figure.caption.17}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Desain sirkuit 2 lajur dengan jarak yang panjang dan kompleksitas yang tinggi\relax }}{23}{figure.caption.18}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Desain sirkuit 3 lajur\relax }}{24}{figure.caption.19}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Desain sirkuit 4 lajur\relax }}{25}{figure.caption.20}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces \textit {Shanghai International Circuit\cite {cit:14}}\relax }}{26}{figure.caption.23}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces 5 Macam \textit {Bézier curve} sirkuit (dari kiri ke kanan) : batas kiri jalan, \textit {Vehicle AI Path - Counterclock Wise}, tengah lajur / marka jalan, \textit {Vehicle AI Path - Clock Wise}, serta batas kanan jalan \relax }}{27}{figure.caption.24}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces \textit {Bézier curve} tampak atas, merah : \textit {anchor points}, biru : \textit {control points}\relax }}{28}{figure.caption.25}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces \textit {Bézier curve} pada \textit {3d plane}\relax }}{29}{figure.caption.26}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces \textit {Normal Force} Jalan (\textit {Yaw} 0 Derajat)\relax }}{30}{figure.caption.27}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces \textit {Normal Force} Jalan (\textit {Yaw} 60 Derajat)\relax }}{30}{figure.caption.28}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces \textit {Terrain} setelah ditambahkan bukit, dan pepohonan\relax }}{32}{figure.caption.29}%
-\contentsline {figure}{\numberline {3.21}{\ignorespaces \textit {User Interface} dari Menu\relax }}{32}{figure.caption.30}%
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Diagram \textit {Log File System}, proses ekstraksi data, dan proses \textit {append data}\relax }}{34}{figure.caption.31}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Diagram Steering Wheel yang digunakan, \textit {Sumber : Buku Manual PXN Steering Wheel}\relax }}{35}{figure.caption.32}%
-\contentsline {figure}{\numberline {3.24}{\ignorespaces Grafik hasil \textit {plotting} data \textit {input} pengemudi\relax }}{36}{figure.caption.33}%
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Diagram Sinkronisasi \textit {capture rate} kamera dengan \textit {sampling rate} dari sensor arduino\relax }}{37}{figure.caption.34}%
-\contentsline {figure}{\numberline {3.26}{\ignorespaces Diagram \textit {Flow Chart} Komunikasi Serial Melalui \textit {port} COM\relax }}{39}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Blok Diagram Cakupan Disiplin Ilmu Tugas Akhir\relax }}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Blok Diagram Cakupan Disiplin Ilmu Tugas Akhir\relax }}{10}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Blok Diagram Cakupan Disiplin Ilmu Tugas Akhir\relax }}{11}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Blok Diagram Cakupan Disiplin Ilmu Tugas Akhir\relax }}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Blok Diagram Cakupan Disiplin Ilmu Tugas Akhir\relax }}{12}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Blok Diagram Cakupan Disiplin Ilmu Tugas Akhir\relax }}{13}{figure.caption.12}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Korelasi \textit {user interface} pemilihan lajur dengan \textit {scene} yang dimuat oleh simulator\relax }}{50}{figure.caption.38}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces \textit {Frame webcam} yang tersimpan di dalam \textit {harddrive}\relax }}{51}{figure.caption.39}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagram Sistem Komunikasi Arduino Dengan PC Simulator\relax }}{51}{figure.caption.40}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Contoh data serial yang diterima oleh arduino\relax }}{52}{figure.caption.41}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces \textit {Input} dari pengemudi - \textit {Horizontal Axis} adalah Data sudut \textit {steering wheel}, \textit {Vertical Axis} adalah data nilai tekanan pedal gas / rem\relax }}{52}{figure.caption.42}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Perbandingan sinyal dari \textit {steering wheel controller}, sebelum dan sesudah grafik unity - \textit {Horizontal Axis} / Sudut \textit {steering wheel}\relax }}{53}{figure.caption.43}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Perbandingan sinyal dari \textit {steering wheel controller}, sebelum dan sesudah grafik unity - \textit {Vertical Axis} / Nilai tekanan pedal gas/rem\relax }}{53}{figure.caption.44}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Grafik analisa kuantitatif nilai error dari \textit {steering wheel controller}\relax }}{54}{figure.caption.45}%
 \addvspace {10\p@ }
