@@ -1383,6 +1383,7 @@ INPUT ./bab2.tex
 INPUT ./bab2.tex
 INPUT ./bab2.tex
 INPUT bab2.tex
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT ./img/contoh-kurva-bezier.JPG
 INPUT ./img/contoh-kurva-bezier.JPG
 INPUT img/contoh-kurva-bezier.JPG
@@ -1390,7 +1391,18 @@ INPUT ./img/contoh-kurva-bezier.JPG
 INPUT ./img/contoh-kurva-bezier.JPG
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
+INPUT img/contoh-kurva-bezier.JPG
+INPUT ./img/contoh-kurva-bezier.JPG
 INPUT ./img/contoh-kurva-bezier.JPG
 INPUT ./img/contoh-kurva-bezier.JPG
 INPUT img/contoh-kurva-bezier.JPG

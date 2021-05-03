@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  1 MAY 2021 17:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  3 MAY 2021 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -709,6 +709,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 LaTeX Warning: Label `fig:2.1' multiply defined.
 
 
+LaTeX Warning: Label `fig:2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:2.1' multiply defined.
+
+
+LaTeX Warning: Label `fig:2.1' multiply defined.
+
+
 LaTeX Warning: Label `fig: 3_1' multiply defined.
 
 
@@ -825,7 +834,7 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count359
-<file/COVER-BUKU.pdf, id=135, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=204, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf>
 Package pdftex.def Info: file/COVER-BUKU.pdf  used on input line 164.
@@ -834,7 +843,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf>
 Package pdftex.def Info: file/COVER-BUKU.pdf  used on input line 164.
 (pdftex.def)             Requested size: 421.21263pt x 597.551pt.
-<file/COVER-BUKU.pdf, id=138, page=1, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=207, page=1, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 1>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
@@ -858,7 +867,7 @@ Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
 [1
 
  <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=168, page=2, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=237, page=2, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 2>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page2 used on input line 164.
@@ -872,7 +881,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page2 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [2 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=174, page=3, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=243, page=3, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 3>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page3 used on input line 164.
@@ -886,7 +895,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page3 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [3 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=190, page=4, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=258, page=4, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 4>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page4 used on input line 164.
@@ -900,7 +909,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page4 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [4 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=196, page=5, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=264, page=5, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 5>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page5 used on input line 164.
@@ -914,7 +923,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page5 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [5 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=204, page=6, 421.21367pt x 597.55246pt>
+<file/COVER-BUKU.pdf, id=272, page=6, 421.21367pt x 597.55246pt>
 File: file/COVER-BUKU.pdf Graphic file (type pdf)
 <use file/COVER-BUKU.pdf, page 6>
 Package pdftex.def Info: file/COVER-BUKU.pdf , page6 used on input line 164.
@@ -928,7 +937,7 @@ File: file/COVER-BUKU.pdf Graphic file (type pdf)
 Package pdftex.def Info: file/COVER-BUKU.pdf , page6 used on input line 164.
 (pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
  [6 <./file/COVER-BUKU.pdf>]
-<file/Pengesahan.pdf, id=210, 421.09319pt x 597.55246pt>
+<file/Pengesahan.pdf, id=278, 421.09319pt x 597.55246pt>
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf>
 Package pdftex.def Info: file/Pengesahan.pdf  used on input line 165.
@@ -937,7 +946,7 @@ File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf>
 Package pdftex.def Info: file/Pengesahan.pdf  used on input line 165.
 (pdftex.def)             Requested size: 421.09215pt x 597.551pt.
-<file/Pengesahan.pdf, id=213, page=1, 421.09319pt x 597.55246pt>
+<file/Pengesahan.pdf, id=281, page=1, 421.09319pt x 597.55246pt>
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf, page 1>
 Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 165.
@@ -1019,42 +1028,41 @@ Overfull \hbox (6.42174pt too wide) in paragraph at lines 18--20
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2] [3]
-Overfull \hbox (5.41666pt too wide) in paragraph at lines 101--102
-[]\OT1/cmr/m/n/10 Validasi Ska-la Kan-tuk Ka-ro-lins-ka []
- []
-
-
-Underfull \vbox (badness 1325) has occurred while \output is active []
-
- [4]
-Overfull \hbox (3.65947pt too wide) in paragraph at lines 108--110
-[]\OT1/cmr/m/n/10 Riset ini me-mi-li-ki tu-ju-an un-tuk memp-ro-po-si-sik-an Ting-kat Kan-
- []
-
-) [5] [6
-
-] (./bab2.tex
+ [2] [3]) [4] (./bab2.tex
 Bab 2.
-<img/contoh-kurva-bezier.JPG, id=399, 398.23781pt x 334.24875pt>
+[5
+
+
+]
+<img/contoh-kurva-bezier.JPG, id=482, 398.23781pt x 334.24875pt>
 File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
 <use img/contoh-kurva-bezier.JPG>
-Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 13.
-(pdftex.def)             Requested size: 159.2923pt x 133.69713pt.
+Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 55.
+(pdftex.def)             Requested size: 79.64615pt x 66.84856pt.
+ [6 <./img/contoh-kurva-bezier.JPG>]
 File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
 <use img/contoh-kurva-bezier.JPG>
-Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 26.
-(pdftex.def)             Requested size: 159.2923pt x 133.69713pt.
-)
-Overfull \hbox (2.33258pt too wide) in paragraph at lines 31--226
-[]\OT1/cmr/m/it/10 Embedded Sys-tem \OT1/cmr/m/n/10 ada-lah su-a-tu sys-tem pe-ngo-lah in-for-ma-si yang
- []
+Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 74.
+(pdftex.def)             Requested size: 79.64615pt x 66.84856pt.
+ [7] [8]
+File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
+<use img/contoh-kurva-bezier.JPG>
+Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 120.
+(pdftex.def)             Requested size: 79.64615pt x 66.84856pt.
+File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
+<use img/contoh-kurva-bezier.JPG>
+Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 138.
+(pdftex.def)             Requested size: 79.64615pt x 66.84856pt.
+ [9]
+File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
+<use img/contoh-kurva-bezier.JPG>
+Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 156.
+(pdftex.def)             Requested size: 79.64615pt x 66.84856pt.
+ [10]) [11] [12
 
-[7
-
- <./img/contoh-kurva-bezier.JPG>] [8] (./bab3.tex
+] (./bab3.tex
 Bab 3.
-<img/cakupanTA.JPG, id=411, 593.96906pt x 243.91125pt>
+<img/cakupanTA.JPG, id=516, 593.96906pt x 243.91125pt>
 File: img/cakupanTA.JPG Graphic file (type jpg)
 <use img/cakupanTA.JPG>
 Package pdftex.def Info: img/cakupanTA.JPG  used on input line 14.
@@ -1073,8 +1081,7 @@ Overfull \hbox (33.62059pt too wide) in paragraph at lines 26--27
  [][] 
  []
 
-[9
-
+[13
 
  <./img/cakupanTA.JPG>]
 File: img/cakupanTA.JPG Graphic file (type jpg)
@@ -1089,7 +1096,7 @@ Overfull \hbox (33.62059pt too wide) in paragraph at lines 38--39
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
+ [14]
 File: img/cakupanTA.JPG Graphic file (type jpg)
 <use img/cakupanTA.JPG>
 Package pdftex.def Info: img/cakupanTA.JPG  used on input line 50.
@@ -1108,7 +1115,7 @@ Overfull \hbox (33.62059pt too wide) in paragraph at lines 62--63
  [][] 
  []
 
-[11]
+[15]
 File: img/cakupanTA.JPG Graphic file (type jpg)
 <use img/cakupanTA.JPG>
 Package pdftex.def Info: img/cakupanTA.JPG  used on input line 74.
@@ -1121,13 +1128,13 @@ Overfull \hbox (33.62059pt too wide) in paragraph at lines 74--75
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12] [13] [14
+ [16] [17] [18
 
 ] (./bab4.tex
 Bab 4.
-[15
+[19
 
-]) [16] (./bab5.tex
+]) [20] (./bab5.tex
 Bab 5.
 
 Overfull \hbox (2.71501pt too wide) in paragraph at lines 13--14
@@ -1135,12 +1142,12 @@ Overfull \hbox (2.71501pt too wide) in paragraph at lines 13--14
  []
 
 
-LaTeX Warning: Reference `fig:4.8' on page 17 undefined on input line 16.
+LaTeX Warning: Reference `fig:4.8' on page 21 undefined on input line 16.
 
-[17
+[21
 
 
-]) [18] (./tugas_akhir.bbl (./tugas_akhir.brf)
+]) [22] (./tugas_akhir.bbl (./tugas_akhir.brf)
 \tf@brf=\write9
 \openout9 = `tugas_akhir.brf'.
 
@@ -1149,13 +1156,13 @@ Underfull \hbox (badness 1067) in paragraph at lines 21--21
 \OT1/cmr/m/n/10 e-pi-ness in the acti-ve in-di-vi-du-al,'' |   []   |   []   |   []
  []
 
-) [19
+) [23
 
 
-] [20
+] [24
 
 ] (./lainnya/Biografi.tex
-<img/Foto.jpg, id=479, 1084.05pt x 1355.0625pt>
+<img/Foto.jpg, id=584, 1084.05pt x 1355.0625pt>
 File: img/Foto.jpg Graphic file (type jpg)
 <use img/Foto.jpg>
 Package pdftex.def Info: img/Foto.jpg  used on input line 9.
@@ -1165,7 +1172,7 @@ Overfull \hbox (2.92903pt too wide) in paragraph at lines 9--11
  [][] 
  []
 
-) [21 <./img/Foto.jpg>] [22
+) [25 <./img/Foto.jpg>] [26
 
 ]
 
@@ -1184,23 +1191,23 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `tugas_akhir.out' has not changed.
-(rerunfilecheck)             Checksum: F78FBBE6FF3C2E14E22271E508D40931;5321.
+(rerunfilecheck)             Checksum: 5F1A504791245057C96ABAC035D12233;8275.
 Package rerunfilecheck Info: File `tugas_akhir.brf' has not changed.
-(rerunfilecheck)             Checksum: 69D37AE0112F43DD546B54AF987F3511;467.
+(rerunfilecheck)             Checksum: 7FA0CDDA14AFB75352D8C7D20A015458;362.
  ) 
 Here is how much of TeX's memory you used:
- 18684 strings out of 478994
- 278487 string characters out of 5862207
- 796036 words of memory out of 5000000
- 35628 multiletter control sequences out of 15000+600000
+ 18725 strings out of 478994
+ 279126 string characters out of 5862207
+ 797036 words of memory out of 5000000
+ 35648 multiletter control sequences out of 15000+600000
  408816 words of font info for 47 fonts, out of 8000000 for 9000
  1162 hyphenation exceptions out of 8191
  71i,17n,80p,1365b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on tugas_akhir.pdf (40 pages, 606636 bytes).
+Output written on tugas_akhir.pdf (44 pages, 621069 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
- 131 named destinations out of 1000 (max. 500000)
- 345 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 658 PDF objects out of 1000 (max. 8388607)
+ 575 compressed objects within 6 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 481 words of extra memory for PDF output out of 10000 (max. 10000000)
 
