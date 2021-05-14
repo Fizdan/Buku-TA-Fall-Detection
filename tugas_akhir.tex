@@ -159,9 +159,23 @@
 \titlespacing{\section}{0pt}{0pt}{0pt}
 
 \begin{document}
-\pagenumbering{roman}
 \singlespacing
-\includepdf[pages=-, offset=0 0]{file/COVER-BUKU.pdf}
+
+% Sampul luar
+\input{sampul/sampul-luar.tex}
+\cleardoublepage
+
+% Nomor halaman pembuka dimulai dari sini
+\pagenumbering{roman}
+
+% Sampul dalam
+\input{sampul/sampul-dalam.tex}
+\cleardoublepage
+
+% Sampul inggris
+% \input{sampul/sampul-inggris.tex}
+% \cleardoublepage
+
 \includepdf[pages=-, offset=0 0]{file/Pengesahan.pdf}
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  3 MAY 2021 16:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  14 MAY 2021 14:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -834,191 +834,180 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count359
-<file/COVER-BUKU.pdf, id=204, 421.21367pt x 597.55246pt>
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf>
-Package pdftex.def Info: file/COVER-BUKU.pdf  used on input line 164.
-(pdftex.def)             Requested size: 421.21263pt x 597.551pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf>
-Package pdftex.def Info: file/COVER-BUKU.pdf  used on input line 164.
-(pdftex.def)             Requested size: 421.21263pt x 597.551pt.
-<file/COVER-BUKU.pdf, id=207, page=1, 421.21367pt x 597.55246pt>
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 1>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
-(pdftex.def)             Requested size: 421.21263pt x 597.551pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 1>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 1>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 1>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 1>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page1 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-[1
+(./sampul/sampul-luar.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 293.0634pt, 56.9055pt)
+* v-part:(T,H,B)=(270.30118pt, 256.07481pt, 71.13188pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=293.0634pt
+* \textheight=256.07481pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-15.36449pt
+* \topmargin=161.03119pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=237, page=2, 421.21367pt x 597.55246pt>
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 2>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page2 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 2>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page2 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 2>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page2 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
- [2 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=243, page=3, 421.21367pt x 597.55246pt>
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 3>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page3 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 3>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page3 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 3>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page3 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
- [3 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=258, page=4, 421.21367pt x 597.55246pt>
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 4>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page4 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 4>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page4 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 4>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page4 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
- [4 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=264, page=5, 421.21367pt x 597.55246pt>
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 5>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page5 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 5>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page5 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 5>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page5 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
- [5 <./file/COVER-BUKU.pdf>]
-<file/COVER-BUKU.pdf, id=272, page=6, 421.21367pt x 597.55246pt>
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 6>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page6 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 6>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page6 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
-File: file/COVER-BUKU.pdf Graphic file (type pdf)
-<use file/COVER-BUKU.pdf, page 6>
-Package pdftex.def Info: file/COVER-BUKU.pdf , page6 used on input line 164.
-(pdftex.def)             Requested size: 421.30904pt x 597.68776pt.
- [6 <./file/COVER-BUKU.pdf>]
-<file/Pengesahan.pdf, id=278, 421.09319pt x 597.55246pt>
+<sampul/sampul-luar.png, id=204, 421.0932pt x 597.432pt>
+File: sampul/sampul-luar.png Graphic file (type png)
+<use sampul/sampul-luar.png>
+Package pdftex.def Info: sampul/sampul-luar.png  used on input line 54.
+(pdftex.def)             Requested size: 421.12428pt x 597.55817pt.
+ [1
+
+
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./sampul/sampul-luar.png>]) [2
+
+
+] (./sampul/sampul-dalam.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 293.0634pt, 56.9055pt)
+* v-part:(T,H,B)=(270.30118pt, 256.07481pt, 71.13188pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=293.0634pt
+* \textheight=256.07481pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-15.36449pt
+* \topmargin=161.03119pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<sampul/sampul-dalam.png, id=219, 421.0932pt x 597.432pt>
+File: sampul/sampul-dalam.png Graphic file (type png)
+<use sampul/sampul-dalam.png>
+Package pdftex.def Info: sampul/sampul-dalam.png  used on input line 54.
+(pdftex.def)             Requested size: 421.12428pt x 597.55817pt.
+ [1
+
+ <./sampul/sampul-dalam.png>]) [2
+
+
+]
+<file/Pengesahan.pdf, id=229, 421.09319pt x 597.55246pt>
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf>
-Package pdftex.def Info: file/Pengesahan.pdf  used on input line 165.
+Package pdftex.def Info: file/Pengesahan.pdf  used on input line 179.
 (pdftex.def)             Requested size: 421.09215pt x 597.551pt.
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf>
-Package pdftex.def Info: file/Pengesahan.pdf  used on input line 165.
+Package pdftex.def Info: file/Pengesahan.pdf  used on input line 179.
 (pdftex.def)             Requested size: 421.09215pt x 597.551pt.
-<file/Pengesahan.pdf, id=281, page=1, 421.09319pt x 597.55246pt>
+<file/Pengesahan.pdf, id=232, page=1, 421.09319pt x 597.55246pt>
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf, page 1>
-Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 165.
+Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 179.
 (pdftex.def)             Requested size: 421.09215pt x 597.551pt.
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf, page 1>
-Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 165.
+Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 179.
 (pdftex.def)             Requested size: 421.18852pt x 597.68776pt.
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf, page 1>
-Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 165.
+Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 179.
 (pdftex.def)             Requested size: 421.18852pt x 597.68776pt.
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf, page 1>
-Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 165.
+Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 179.
 (pdftex.def)             Requested size: 421.18852pt x 597.68776pt.
 File: file/Pengesahan.pdf Graphic file (type pdf)
 <use file/Pengesahan.pdf, page 1>
-Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 165.
+Package pdftex.def Info: file/Pengesahan.pdf , page1 used on input line 179.
 (pdftex.def)             Requested size: 421.18852pt x 597.68776pt.
- [7 <./file/Pengesahan.pdf>]
+ [3 <./file/Pengesahan.pdf>]
 
 Package hyperref Warning: No destination for bookmark of \addcontentsline,
-(hyperref)                destination is added on input line 169.
+(hyperref)                destination is added on input line 183.
 
 (./lainnya/Abstrak.tex
 Overfull \hbox (1.44493pt too wide) in paragraph at lines 7--13
 [][] 
  []
 
-[8{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./lainnya/katapengantar.tex
+[4]) (./lainnya/katapengantar.tex
 Overfull \hbox (0.43709pt too wide) in paragraph at lines 18--19
 []\OT1/cmr/m/n/10 Teman - tem-an Asis-ten Lab B201 Te-le-ma-ti-ka yang se-la-lu mem-
  []
 
-) [9
+) [5
 
-] [10
+] [6
 
-] (./tugas_akhir.toc [11
+] (./tugas_akhir.toc [7
 
 ])
 \tf@toc=\write6
 \openout6 = `tugas_akhir.toc'.
 
- [12] (./tugas_akhir.lof)
+ [8] (./tugas_akhir.lof)
 \tf@lof=\write7
 \openout7 = `tugas_akhir.lof'.
 
- [13
+ [9
 
 
-] [14
+] [10
 
 ] (./tugas_akhir.lot)
 \tf@lot=\write8
 \openout8 = `tugas_akhir.lot'.
 
- [15
+ [11
 
-] [16
+] [12
 
 ] (./numenklatur.tex)
-Overfull \hbox (75.32755pt too wide) in paragraph at lines 6--207
+Overfull \hbox (75.32755pt too wide) in paragraph at lines 6--221
 [][]
  []
 
-[17] [18
+[13] [14
 
 ] (./bab1.tex
 Bab 1.
-[1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 
+      [1
 
 ]
 Overfull \hbox (6.42174pt too wide) in paragraph at lines 18--20
@@ -1028,13 +1017,17 @@ Overfull \hbox (6.42174pt too wide) in paragraph at lines 18--20
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2] [3]) [4] (./bab2.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 
+      [2] [3]) [4] (./bab2.tex
 Bab 2.
 [5
 
 
 ]
-<img/contoh-kurva-bezier.JPG, id=482, 398.23781pt x 334.24875pt>
+<img/contoh-kurva-bezier.JPG, id=428, 398.23781pt x 334.24875pt>
 File: img/contoh-kurva-bezier.JPG Graphic file (type jpg)
 <use img/contoh-kurva-bezier.JPG>
 Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 55.
@@ -1062,7 +1055,7 @@ Package pdftex.def Info: img/contoh-kurva-bezier.JPG  used on input line 156.
 
 ] (./bab3.tex
 Bab 3.
-<img/cakupanTA.JPG, id=516, 593.96906pt x 243.91125pt>
+<img/cakupanTA.JPG, id=463, 593.96906pt x 243.91125pt>
 File: img/cakupanTA.JPG Graphic file (type jpg)
 <use img/cakupanTA.JPG>
 Package pdftex.def Info: img/cakupanTA.JPG  used on input line 14.
@@ -1162,7 +1155,7 @@ Underfull \hbox (badness 1067) in paragraph at lines 21--21
 ] [24
 
 ] (./lainnya/Biografi.tex
-<img/Foto.jpg, id=584, 1084.05pt x 1355.0625pt>
+<img/Foto.jpg, id=531, 1084.05pt x 1355.0625pt>
 File: img/Foto.jpg Graphic file (type jpg)
 <use img/Foto.jpg>
 Package pdftex.def Info: img/Foto.jpg  used on input line 9.
@@ -1196,18 +1189,18 @@ Package rerunfilecheck Info: File `tugas_akhir.brf' has not changed.
 (rerunfilecheck)             Checksum: 7FA0CDDA14AFB75352D8C7D20A015458;362.
  ) 
 Here is how much of TeX's memory you used:
- 18725 strings out of 478994
- 279126 string characters out of 5862207
+ 18723 strings out of 478994
+ 278784 string characters out of 5862207
  797036 words of memory out of 5000000
- 35648 multiletter control sequences out of 15000+600000
- 408816 words of font info for 47 fonts, out of 8000000 for 9000
+ 35641 multiletter control sequences out of 15000+600000
+ 410016 words of font info for 51 fonts, out of 8000000 for 9000
  1162 hyphenation exceptions out of 8191
- 71i,17n,80p,1365b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on tugas_akhir.pdf (44 pages, 621069 bytes).
+ 71i,17n,79p,1365b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on tugas_akhir.pdf (42 pages, 553143 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 575 compressed objects within 6 object streams
- 152 named destinations out of 1000 (max. 500000)
- 481 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 606 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 446 words of extra memory for PDF output out of 10000 (max. 10000000)
 

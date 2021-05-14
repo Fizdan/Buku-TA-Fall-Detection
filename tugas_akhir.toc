@@ -1,10 +1,10 @@
 \babel@toc {indonesian}{}
-\contentsline {chapter}{Abstrak}{viii}{section*.1}%
-\contentsline {chapter}{KATA PENGANTAR}{ix}{section*.1}%
-\contentsline {chapter}{DAFTAR ISI}{xi}{Item.7}%
-\contentsline {chapter}{DAFTAR GAMBAR}{xiii}{chapter*.2}%
-\contentsline {chapter}{DAFTAR TABEL}{xv}{chapter*.3}%
-\contentsline {chapter}{NOMENKLATUR}{xvii}{chapter*.4}%
+\contentsline {chapter}{Abstrak}{iv}{section*.1}%
+\contentsline {chapter}{KATA PENGANTAR}{v}{section*.1}%
+\contentsline {chapter}{DAFTAR ISI}{vii}{Item.7}%
+\contentsline {chapter}{DAFTAR GAMBAR}{ix}{chapter*.2}%
+\contentsline {chapter}{DAFTAR TABEL}{xi}{chapter*.3}%
+\contentsline {chapter}{NOMENKLATUR}{xiii}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Permasalahan}{2}{section.1.2}%
